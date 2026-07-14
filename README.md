@@ -6,34 +6,52 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=Dr.+Mobeen+Shahroz;Ph.D.+Computer+Science+%7C+AI+Researcher;LLMs+%7C+Medical+Imaging+%7C+Deep+Learning;16+Q1+Publications+%7C+Impact+Factor+7.5;Building+Intelligent+Systems+for+Tomorrow" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Huzaifa+Asad;AI+Engineer+%26+Researcher;Founder+%40+PiLENS;Building+Intelligent+Edge+AI+Systems;Computer+Vision+%7C+Machine+Learning;Deep+Learning+%7C+PyTorch;Turning+AI+Ideas+into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 <br/>
 
 <!-- Futuristic Profile Banner with Image -->
-<table align="center" width="100%" style="background: linear-gradient(135deg, #0a0f1e 0%, #0d1525 100%); border-radius: 20px; padding: 20px;">
+<table align="center" width="100%">
   <tr>
     <td width="35%" align="center">
-      <div style="position: relative; display: inline-block;">
-        <img src="profile_pic1.png" alt="Dr. Mobeen Shahroz" width="220" style="border-radius: 20px; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 0 35px rgba(0,217,255,0.6)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 0 20px rgba(0,217,255,0.3)';"/>
-        <div style="position: absolute; bottom: 10px; right: 10px; background: #00D9FF; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 18px;">🤖</div>
-      </div>
-    </td>
-    <td width="65%" style="padding-left: 25px;">
-      <h1 style="color: #00D9FF; margin-bottom: 5px; font-size: 2.2em;">DR. MOBEEN SHAHROZ</h1>
-      <p style="color: #8892b0; font-size: 1.1em; margin-top: 0;">Ph.D. Computer Science | AI Researcher & Machine Learning Specialist</p>
-      <p style="color: #ccd6f6;">🔬 <strong>Specializations:</strong> Natural Language Processing (NLP) • Large Language Models (LLMs) • Medical Imaging AI • Deep Learning Architectures</p>
-      <p style="color: #64ffda;">📄 <strong>Research Impact:</strong> 16 Peer-Reviewed Publications | 14 Q1 Journals | Expert Systems with Applications (IF: 7.5) | Scientific Reports (Nature Portfolio) | IEEE Access</p>
-      <p>📍 Bahawalpur, Pakistan | 🎓 Ph.D. Completed 2024 | 🌍 Open for Global Collaborations & Post-Doctoral Roles</p>
-      <p>
-        <a href="https://github.com/MobeenShahroz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF&color=0a0f1e"/></a>
-        <a href="https://www.linkedin.com/in/mobeen-shahroz-6b9915133"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        <a href="mailto:mobeensahhroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        <a href="https://scholar.google.com/citations?user=fyQl0QYnkzoC&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-      </p>
-    </td>
-   </>
+
+<img src="assets/profile_pic.png" alt="Huzaifa Asad" width="220"/>
+
+  </td>
+
+  <td width="65%">
+
+# HUZAIFA ASAD
+
+### AI Engineer & Researcher | Founder @ PiLENS
+
+🔬 **Specializations:** Computer Vision • Machine Learning • Deep Learning • Edge AI • Intelligent Surveillance
+
+🚀 **Current Work:** Founder of **PiLENS** | Building Intelligent Edge AI Systems for Real-World Security & Surveillance
+
+📄 **Research:** Writing my first international research paper based on **PiLENS** | Focused on AI-powered Intelligent Surveillance
+
+📍 Pakistan | 🎓 BS Artificial Intelligence Student | 🌍 Open to AI Research, Internship & Startup Collaborations
+
+<p>
+
+<a href="https://github.com/Huzzi-10">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF&color=0a0f1e"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:huzaifaasad17805@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+  </td>
+  </tr>
 </table>
 
 <br/>
