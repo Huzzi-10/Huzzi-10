@@ -16,7 +16,7 @@
   <tr>
     <td width="35%" align="center">
 
-<img src="assets/WhatsApp Image 2026-07-14 at 3.32.12 PM.jpeg" alt="Huzaifa Asad" width="220"/>
+<img src="Profile_Pic.jpeg" alt="Huzaifa Asad" width="220"/>
 
   </td>
 
