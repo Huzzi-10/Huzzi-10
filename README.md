@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Huzaifa+Asad;AI+Engineer+%26+Researcher;Founder & CEO+%40+PiVisen;Building+Intelligent+Edge+AI+Systems;Computer+Vision+%7C+Machine+Learning;Deep+Learning+%7C+PyTorch;Turning+AI+Ideas+into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Huzaifa+Asad;AI+Engineer+%26+Researcher;Founder&CEO+%40+PiVisen;Building+Intelligent+Edge+AI+Systems;Computer+Vision+%7C+Machine+Learning;Deep+Learning+%7C+PyTorch;Turning+AI+Ideas+into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 <br/>
