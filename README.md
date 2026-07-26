@@ -24,7 +24,7 @@
 
 # HUZAIFA ASAD
 
-### AI Engineer & Researcher | Founder @ PiLENS
+### AI Engineer & Researcher | Founder @ PiVisen
 
 🔬 **Specializations:** Computer Vision • Machine Learning • Deep Learning • Edge AI • Intelligent Surveillance
 
