@@ -70,7 +70,7 @@
 
 <p>
 
-I'm <strong>Huzaifa Asad</strong> — an <strong>AI Engineer & Researcher</strong>, Founder of <strong>PiLENS</strong>, and a BS Artificial Intelligence student passionate about building intelligent systems that solve real-world problems.
+I'm <strong>Huzaifa Asad</strong> — an <strong>AI Engineer & Researcher</strong>, Founder of <strong>PiVisen AI</strong>, and a BS Artificial Intelligence student passionate about building intelligent systems that solve real-world problems.
 
 </p>
 
