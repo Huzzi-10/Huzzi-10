@@ -24,7 +24,7 @@
 
 # HUZAIFA ASAD
 
-### AI Engineer & Researcher | Founder @ PiVisen
+### AI Engineer & Researcher | Founder @ PiVisen AI
 
 🔬 **Specializations:** Computer Vision • Machine Learning • Deep Learning • Edge AI • Intelligent Surveillance
 
